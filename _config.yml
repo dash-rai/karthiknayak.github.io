@@ -1,0 +1,54 @@
+# Dependencies
+markdown:	kramdown
+highlighter:	pygments
+
+# Permalinks
+permalink:	/blog/:title
+
+# Setup
+title:		Karthik Nayak
+tagline:	'Dealing life with Binary'
+description:	'My personal blog.'
+url:		http://karthiknayak.github.io
+commentsystem:	google
+disqus:		example
+
+author:
+  name:		'Karthik Nayak'
+  url:		https://google.com/+KarthikNayak
+
+paginate:	5
+
+# Custom vars
+icon:		/assets/images/icon.png
+cover:		/assets/images/cover.jpg
+
+social:
+  - icon:	twitter
+    url:	https://twitter.com/karthik188
+    desc:	Follow me on twitter
+
+  - icon:	github
+    url:	https://github.com/karthiknayak
+    desc:	Fork me on github
+
+  - icon:	googleplus-alt
+    url:	https://google.com/+karthiknayak
+    desc:	Add me on google+
+
+  - icon:	feed
+    url:	http://camporez.com/atom.xml
+    desc:	Subscribe to my feed
+    
+menu:
+  - title:	Home
+    url:	/
+    
+  - title:	About
+    url:	/about.html
+    
+copyright:
+  author:	Karthik Nayak
+  url:		http://karthiknayak.github.io
+  type_title:	Some rights reserved
+  type_url:	http://creativecommons.org/licenses/by-nc/2.5
