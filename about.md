@@ -7,7 +7,7 @@ title: About Me.
  Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. <cite>-Linux Torvalds</cite>
 </div>
 
-A Linux enthusiast and all time coder, Studying CSE in Banglore. Adores the C language, and anything dealing with low level programming. Loves solving math puzzles, always thinking in terms of equations.
+A Linux enthusiast and all time coder, Studying CSE in Bangalore. Adores the C language, and anything dealing with low level programming. Loves solving math puzzles, always thinking in terms of equations.
 
 Logical thinker | Optimist | Full of Himself.
 
