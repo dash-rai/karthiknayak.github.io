@@ -10,8 +10,7 @@ title:		Karthik Nayak
 tagline:	'Dealing life with Binary'
 description:	'My personal blog.'
 url:		http://karthiknayak.github.io
-commentsystem:	google
-disqus:		example
+commentsystem:	disqus
 
 author:
   name:		'Karthik Nayak'
